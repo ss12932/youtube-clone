@@ -16,7 +16,11 @@
 
 ## Deployed Link
 
+https://lucky-kleicha-96bdff.netlify.app
+
 ## Github Repository Link
+
+https://github.com/ss12932/youtube-clone
 
 ## Screenshot
 
